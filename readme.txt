@@ -1,0 +1,1 @@
+A small business website with multiple pages to display what they do, what they've done images to accompany the work and a contact page. all made with html and css.
